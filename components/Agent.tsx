@@ -149,7 +149,7 @@ const Agent = ({
     <>
       <div className="call-view">
         {/* AI Interviewer Card */}
-        <div className="card-interviewer">
+        <div className="card-interviewer">``
           <div className="avatar">
             <Image
               src="/ai-avatar.png"
@@ -160,7 +160,7 @@ const Agent = ({
             />
             {isSpeaking && <span className="animate-speak" />}
           </div>
-          <h3>AI Interviewer</h3>
+          <h3>MockMate</h3>
         </div>
 
         {/* User Profile Card */}
