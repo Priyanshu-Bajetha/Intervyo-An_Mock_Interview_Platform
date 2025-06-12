@@ -105,7 +105,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
           <h2 className="text-primary-100">Intervyo</h2>
         </div>
 
-        <h3  className="text-center" >Smarter Prep Starts Here!</h3>
+        <h3  className="text-center" >Your Smarter Prep Starts Here!</h3>
 
         <Form {...form}>
           <form
